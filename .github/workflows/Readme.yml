@@ -19,3 +19,4 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
+          plugin_habits:: yes
