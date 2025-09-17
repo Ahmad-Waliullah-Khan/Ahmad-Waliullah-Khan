@@ -1,4 +1,4 @@
-# Ahmad Waliullah Khan
+# Ahmad W Khan
 **Senior Backend & Product Engineer - I build explainable, production-grade systems for India-first SaaS.**
 
 ![India](https://img.shields.io/badge/Location-India-blue?style=flat-square) 
